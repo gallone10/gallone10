@@ -39,7 +39,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=linkedin.com/in/nichol6s"/>
   </a>
   
-  <a href="enzo.gallone83@gmail.com">
+  <a href="mailto:enzo.gallone83@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:nicholas.santosp@gmail.com"/>
   </a>
 </div>
