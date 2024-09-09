@@ -1,13 +1,8 @@
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="45" height="45" /> Hey, my name is Nicholas
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="45" height="45" /> Hey, my name is Enzo
 
   - 💜 Exploring new technologies and developing software solutions
   - 📚 Currently studying React Native and TypeScript
 
-### 📈 Statistics
-
-| My Streak                                                                                                                                                            | Top Languages                                                                                                                                                                    |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=nichol6s&theme=tokyonight&card_height=200" alt="GitHub Streak" /></a> | <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nichol6s&hide=html&layout=compact&theme=tokyonight" /> | 
 
 ### 🚀 Technologies
 
@@ -40,11 +35,11 @@
 ##
 
 <div>
-  <a href="https://www.linkedin.com/in/nichol6s/" target="_blank">
+  <a href="https://www.linkedin.com/in/enzorossgallone/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=linkedin.com/in/nichol6s"/>
   </a>
   
-  <a href="mailto:nicholas.santosp@gmail.com">
+  <a href="enzo.gallone83@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:nicholas.santosp@gmail.com"/>
   </a>
 </div>
