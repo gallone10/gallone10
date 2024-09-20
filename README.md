@@ -34,7 +34,7 @@
  
 | My Streak                                                                                                                                                            | Top Languages                                                                                                                                                                    |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [![GitHub Streak](https://streak-stats.demolab.com/?user=pedrocpacheco&theme=great-gatsby)](https://git.io/streak-stats) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrocpacheco&langs_count=10&count_private=true&hide_border=true&theme=great-gatsby&layout=compact) 
+| [![GitHub Streak](https://streak-stats.demolab.com/?user=gallone10&theme=great-gatsby)](https://git.io/streak-stats) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gallone10&langs_count=10&count_private=true&hide_border=true&theme=great-gatsby&layout=compact) 
  
 💬 Get in Contact:
 <div>
