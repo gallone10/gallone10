@@ -1,5 +1,5 @@
 <h1 align='center'>
-  Hello, I'm Enzo Gallone  👋🏻👨
+  Hello, I'm Enzo Gallone  👋🏻
 </h1>
 <p align='center'>
   Software Developer & Student at FIAP
